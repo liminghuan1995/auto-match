@@ -1,8 +1,8 @@
 # Auto Match - An online match scheduling tool
 
-In order to make it more convenient to orgazise matches, tournaments and other various kinds of competitions in many game communities, we are about to start this project called *Auto-Match* which only aims at providing automatic match scheduling and also nice experience when holding a online-game competition.  
+In order to make it more convenient to orgazise matches, tournaments and other various kinds of competitions in many game communities, we are about to start this project called *Auto-Match* which only aims at providing automatic match scheduling and also nice experience when holding an online-game competition.  
 
-However, this project is now lack of participants for contributing. So me, the source man, being the only one who has some programming experience in my little community QQ group in China, decide to start this from making an small version which will be used as a daily tool for our group friends.  
+However, this project is now lack of participants for contributing. So me, the source man, being the only person who has some programming experience in my little community QQ group (Mario Tennis Aces) in China, decide to start this from making an small version which will be used as a daily tool for our group friends.  
 
 After voting, I chosed these main features below to design at first.  
 
