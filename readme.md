@@ -16,3 +16,4 @@ After voting, I chosed these main features below to design at first.
 
 According to this voting result and my own consideration, I'd like to build a simple web application.  
 
+[中文](/readme-zh.md)
